@@ -1,0 +1,1082 @@
+[
+  {
+    "model": "properties.property",
+    "pk": 1,
+    "fields": {
+      "description": "This inviting residential property offers a thoughtfully planned layout designed for comfortable everyday living. The spacious interiors provide plenty of room for relaxing, entertaining guests, and spending quality time with family. Well-proportioned bedrooms offer privacy and comfort, while the bathrooms are arranged for practical daily use. Large windows and open living areas help bring in natural light and maintain good ventilation throughout the home. The property also provides convenient parking and useful outdoor space, making it suitable for families looking for a comfortable and functional residence. Its location offers convenient access to everyday necessities such as schools, markets, roads, public transport, and other local amenities. Whether you are searching for a long-term family home or a practical residential investment, this property combines generous space, useful features, and a convenient setting for modern living.",
+      "address": "24 Model Town",
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "postal_code": "144003",
+      "latitude": "31.323500",
+      "longitude": "75.579800",
+      "price": "8500000.00",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area": "1850.00",
+      "total_floors": 2,
+      "floor_number": null,
+      "balconies": 2,
+      "created_at": "2026-08-01T10:00:00Z",
+      "updated_at": "2026-08-01T10:00:00Z",
+      "is_archived": false,
+      "parking_spaces": 2,
+      "seller": 1,
+      "availability_status": "AVAILABLE",
+      "approval_status": "APPROVED",
+      "furnishing_status": "SEMI_FURNISHED",
+      "property_type": "HOUSE",
+      "listing_type": "SALE"
+    }
+  },
+  {
+    "model": "properties.property",
+    "pk": 2,
+    "fields": {
+      "description": "Designed with modern residential living in mind, this well-presented property combines comfortable interiors with practical features and a convenient layout. The home provides generous living spaces that can easily accommodate family gatherings, quiet evenings, or everyday activities. The bedrooms are comfortably sized, while the bathrooms offer functionality and convenience for residents. Natural light and ventilation contribute to a pleasant atmosphere throughout the property, and balconies or outdoor areas provide additional space to enjoy fresh air. Parking is also available, adding everyday convenience for residents and guests. The surrounding locality offers easy access to essential services, shopping areas, educational institutions, transportation routes, and other amenities. With its balance of space, comfort, accessibility, and practical facilities, the property can be an appealing choice for families, professionals, or buyers seeking a dependable home in an established residential neighborhood.",
+      "address": "Tower B, Urban Estate Phase 1",
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "postal_code": "144022",
+      "latitude": "31.293800",
+      "longitude": "75.605200",
+      "price": "5200000.00",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area": "1250.00",
+      "total_floors": 8,
+      "floor_number": 4,
+      "balconies": 1,
+      "created_at": "2026-08-01T10:00:00Z",
+      "updated_at": "2026-08-01T10:00:00Z",
+      "is_archived": false,
+      "parking_spaces": 1,
+      "seller": 1,
+      "availability_status": "AVAILABLE",
+      "approval_status": "APPROVED",
+      "furnishing_status": "SEMI_FURNISHED",
+      "property_type": "APARTMENT",
+      "listing_type": "SALE"
+    }
+  },
+  {
+    "model": "properties.property",
+    "pk": 3,
+    "fields": {
+      "description": "A comfortable and versatile home offering a combination of generous space, practical amenities, and a location suited to convenient everyday living. The property features thoughtfully arranged rooms that provide flexibility for families, couples, or professionals, with spacious living areas suitable for both relaxation and entertaining. Bedrooms offer comfortable private spaces, while the bathrooms are designed to support daily routines with ease. Good natural light and ventilation help create a bright and welcoming interior environment. Additional features such as balconies, outdoor areas, and dedicated parking add useful functionality and make the property more convenient for residents. Situated in a well-connected residential area, the home provides access to nearby markets, schools, roads, public transportation, and essential services. Overall, it offers a practical blend of comfort, accessibility, and usable living space for anyone seeking a well-rounded residential property for long-term living or investment purposes.",
+      "address": "18 Shastri Nagar",
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "postal_code": "144001",
+      "latitude": "31.335200",
+      "longitude": "75.576400",
+      "price": "25000.00",
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "area": "2450.00",
+      "total_floors": 2,
+      "floor_number": null,
+      "balconies": 3,
+      "created_at": "2026-08-01T10:00:00Z",
+      "updated_at": "2026-08-01T10:00:00Z",
+      "is_archived": false,
+      "parking_spaces": 2,
+      "seller": 1,
+      "availability_status": "AVAILABLE",
+      "approval_status": "APPROVED",
+      "furnishing_status": "UNFURNISHED",
+      "property_type": "HOUSE",
+      "listing_type": "RENT"
+    }
+  },
+  {
+    "model": "properties.property",
+    "pk": 4,
+    "fields": {
+      "description": "This inviting residential property offers a thoughtfully planned layout designed for comfortable everyday living. The spacious interiors provide plenty of room for relaxing, entertaining guests, and spending quality time with family. Well-proportioned bedrooms offer privacy and comfort, while the bathrooms are arranged for practical daily use. Large windows and open living areas help bring in natural light and maintain good ventilation throughout the home. The property also provides convenient parking and useful outdoor space, making it suitable for families looking for a comfortable and functional residence. Its location offers convenient access to everyday necessities such as schools, markets, roads, public transport, and other local amenities. Whether you are searching for a long-term family home or a practical residential investment, this property combines generous space, useful features, and a convenient setting for modern living.",
+      "address": "Tower A, Palm Residency",
+      "city": "Mohali",
+      "state": "Punjab",
+      "postal_code": "160062",
+      "latitude": "30.704800",
+      "longitude": "76.717900",
+      "price": "7800000.00",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area": "1680.00",
+      "total_floors": 12,
+      "floor_number": 7,
+      "balconies": 2,
+      "created_at": "2026-08-01T10:00:00Z",
+      "updated_at": "2026-08-01T10:00:00Z",
+      "is_archived": false,
+      "parking_spaces": 1,
+      "seller": 1,
+      "availability_status": "AVAILABLE",
+      "approval_status": "APPROVED",
+      "furnishing_status": "SEMI_FURNISHED",
+      "property_type": "APARTMENT",
+      "listing_type": "SALE"
+    }
+  },
+  {
+    "model": "properties.property",
+    "pk": 5,
+    "fields": {
+      "description": "Designed with modern residential living in mind, this well-presented property combines comfortable interiors with practical features and a convenient layout. The home provides generous living spaces that can easily accommodate family gatherings, quiet evenings, or everyday activities. The bedrooms are comfortably sized, while the bathrooms offer functionality and convenience for residents. Natural light and ventilation contribute to a pleasant atmosphere throughout the property, and balconies or outdoor areas provide additional space to enjoy fresh air. Parking is also available, adding everyday convenience for residents and guests. The surrounding locality offers easy access to essential services, shopping areas, educational institutions, transportation routes, and other amenities. With its balance of space, comfort, accessibility, and practical facilities, the property can be an appealing choice for families, professionals, or buyers seeking a dependable home in an established residential neighborhood.",
+      "address": "42 Green Park",
+      "city": "Ludhiana",
+      "state": "Punjab",
+      "postal_code": "141001",
+      "latitude": "30.906500",
+      "longitude": "75.857300",
+      "price": "42000.00",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area": "2100.00",
+      "total_floors": 2,
+      "floor_number": null,
+      "balconies": 2,
+      "created_at": "2026-08-01T10:00:00Z",
+      "updated_at": "2026-08-01T10:00:00Z",
+      "is_archived": false,
+      "parking_spaces": 2,
+      "seller": 1,
+      "availability_status": "AVAILABLE",
+      "approval_status": "PENDING",
+      "furnishing_status": "UNFURNISHED",
+      "property_type": "HOUSE",
+      "listing_type": "RENT"
+    }
+  },
+  {
+    "model": "properties.property",
+    "pk": 6,
+    "fields": {
+      "description": "A comfortable and versatile home offering a combination of generous space, practical amenities, and a location suited to convenient everyday living. The property features thoughtfully arranged rooms that provide flexibility for families, couples, or professionals, with spacious living areas suitable for both relaxation and entertaining. Bedrooms offer comfortable private spaces, while the bathrooms are designed to support daily routines with ease. Good natural light and ventilation help create a bright and welcoming interior environment. Additional features such as balconies, outdoor areas, and dedicated parking add useful functionality and make the property more convenient for residents. Situated in a well-connected residential area, the home provides access to nearby markets, schools, roads, public transportation, and essential services. Overall, it offers a practical blend of comfort, accessibility, and usable living space for anyone seeking a well-rounded residential property for long-term living or investment purposes.",
+      "address": "Rose Apartments",
+      "city": "Amritsar",
+      "state": "Punjab",
+      "postal_code": "143001",
+      "latitude": "31.633100",
+      "longitude": "74.872300",
+      "price": "28000.00",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area": "1180.00",
+      "total_floors": 6,
+      "floor_number": 3,
+      "balconies": 1,
+      "created_at": "2026-08-01T10:00:00Z",
+      "updated_at": "2026-08-01T10:00:00Z",
+      "is_archived": false,
+      "parking_spaces": 1,
+      "seller": 1,
+      "availability_status": "AVAILABLE",
+      "approval_status": "APPROVED",
+      "furnishing_status": "FURNISHED",
+      "property_type": "APARTMENT",
+      "listing_type": "RENT"
+    }
+  },
+  {
+    "model": "properties.property",
+    "pk": 7,
+    "fields": {
+      "description": "This inviting residential property offers a thoughtfully planned layout designed for comfortable everyday living. The spacious interiors provide plenty of room for relaxing, entertaining guests, and spending quality time with family. Well-proportioned bedrooms offer privacy and comfort, while the bathrooms are arranged for practical daily use. Large windows and open living areas help bring in natural light and maintain good ventilation throughout the home. The property also provides convenient parking and useful outdoor space, making it suitable for families looking for a comfortable and functional residence. Its location offers convenient access to everyday necessities such as schools, markets, roads, public transport, and other local amenities. Whether you are searching for a long-term family home or a practical residential investment, this property combines generous space, useful features, and a convenient setting for modern living.",
+      "address": "Tower C, Skyline Heights",
+      "city": "Chandigarh",
+      "state": "Punjab",
+      "postal_code": "160036",
+      "latitude": "30.737200",
+      "longitude": "76.790600",
+      "price": "14500000.00",
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "area": "2650.00",
+      "total_floors": 15,
+      "floor_number": 11,
+      "balconies": 3,
+      "created_at": "2026-08-01T10:00:00Z",
+      "updated_at": "2026-08-01T10:00:00Z",
+      "is_archived": false,
+      "parking_spaces": 2,
+      "seller": 1,
+      "availability_status": "AVAILABLE",
+      "approval_status": "APPROVED",
+      "furnishing_status": "FURNISHED",
+      "property_type": "APARTMENT",
+      "listing_type": "SALE"
+    }
+  },
+  {
+    "model": "properties.property",
+    "pk": 8,
+    "fields": {
+      "description": "Designed with modern residential living in mind, this well-presented property combines comfortable interiors with practical features and a convenient layout. The home provides generous living spaces that can easily accommodate family gatherings, quiet evenings, or everyday activities. The bedrooms are comfortably sized, while the bathrooms offer functionality and convenience for residents. Natural light and ventilation contribute to a pleasant atmosphere throughout the property, and balconies or outdoor areas provide additional space to enjoy fresh air. Parking is also available, adding everyday convenience for residents and guests. The surrounding locality offers easy access to essential services, shopping areas, educational institutions, transportation routes, and other amenities. With its balance of space, comfort, accessibility, and practical facilities, the property can be an appealing choice for families, professionals, or buyers seeking a dependable home in an established residential neighborhood.",
+      "address": "11 Ranjit Avenue",
+      "city": "Amritsar",
+      "state": "Punjab",
+      "postal_code": "143001",
+      "latitude": "31.648200",
+      "longitude": "74.885400",
+      "price": "5800000.00",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area": "1400.00",
+      "total_floors": 1,
+      "floor_number": null,
+      "balconies": 1,
+      "created_at": "2026-08-01T10:00:00Z",
+      "updated_at": "2026-08-01T10:00:00Z",
+      "is_archived": false,
+      "parking_spaces": 1,
+      "seller": 1,
+      "availability_status": "SOLD",
+      "approval_status": "APPROVED",
+      "furnishing_status": "UNFURNISHED",
+      "property_type": "HOUSE",
+      "listing_type": "SALE"
+    }
+  },
+  {
+    "model": "properties.property",
+    "pk": 9,
+    "fields": {
+      "description": "A comfortable and versatile home offering a combination of generous space, practical amenities, and a location suited to convenient everyday living. The property features thoughtfully arranged rooms that provide flexibility for families, couples, or professionals, with spacious living areas suitable for both relaxation and entertaining. Bedrooms offer comfortable private spaces, while the bathrooms are designed to support daily routines with ease. Good natural light and ventilation help create a bright and welcoming interior environment. Additional features such as balconies, outdoor areas, and dedicated parking add useful functionality and make the property more convenient for residents. Situated in a well-connected residential area, the home provides access to nearby markets, schools, roads, public transportation, and essential services. Overall, it offers a practical blend of comfort, accessibility, and usable living space for anyone seeking a well-rounded residential property for long-term living or investment purposes.",
+      "address": "Tower D, City View Residency",
+      "city": "Patiala",
+      "state": "Punjab",
+      "postal_code": "147001",
+      "latitude": "30.339800",
+      "longitude": "76.386900",
+      "price": "6500000.00",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area": "1520.00",
+      "total_floors": 10,
+      "floor_number": 5,
+      "balconies": 2,
+      "created_at": "2026-08-01T10:00:00Z",
+      "updated_at": "2026-08-01T10:00:00Z",
+      "is_archived": false,
+      "parking_spaces": 1,
+      "seller": 1,
+      "availability_status": "AVAILABLE",
+      "approval_status": "PENDING",
+      "furnishing_status": "SEMI_FURNISHED",
+      "property_type": "APARTMENT",
+      "listing_type": "SALE"
+    }
+  },
+  {
+    "model": "properties.property",
+    "pk": 10,
+    "fields": {
+      "description": "This inviting residential property offers a thoughtfully planned layout designed for comfortable everyday living. The spacious interiors provide plenty of room for relaxing, entertaining guests, and spending quality time with family. Well-proportioned bedrooms offer privacy and comfort, while the bathrooms are arranged for practical daily use. Large windows and open living areas help bring in natural light and maintain good ventilation throughout the home. The property also provides convenient parking and useful outdoor space, making it suitable for families looking for a comfortable and functional residence. Its location offers convenient access to everyday necessities such as schools, markets, roads, public transport, and other local amenities. Whether you are searching for a long-term family home or a practical residential investment, this property combines generous space, useful features, and a convenient setting for modern living.",
+      "address": "67 Civil Lines",
+      "city": "Jalandhar",
+      "state": "Punjab",
+      "postal_code": "144001",
+      "latitude": "31.328700",
+      "longitude": "75.571200",
+      "price": "9800000.00",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area": "2200.00",
+      "total_floors": 2,
+      "floor_number": null,
+      "balconies": 2,
+      "created_at": "2026-08-01T10:00:00Z",
+      "updated_at": "2026-08-01T10:00:00Z",
+      "is_archived": false,
+      "parking_spaces": 2,
+      "seller": 1,
+      "availability_status": "AVAILABLE",
+      "approval_status": "APPROVED",
+      "furnishing_status": "SEMI_FURNISHED",
+      "property_type": "HOUSE",
+      "listing_type": "SALE"
+    }
+  },
+  {
+    "model": "properties.property",
+    "pk": 11,
+    "fields": {
+      "description": "Designed with modern residential living in mind, this well-presented property combines comfortable interiors with practical features and a convenient layout. The home provides generous living spaces that can easily accommodate family gatherings, quiet evenings, or everyday activities. The bedrooms are comfortably sized, while the bathrooms offer functionality and convenience for residents. Natural light and ventilation contribute to a pleasant atmosphere throughout the property, and balconies or outdoor areas provide additional space to enjoy fresh air. Parking is also available, adding everyday convenience for residents and guests. The surrounding locality offers easy access to essential services, shopping areas, educational institutions, transportation routes, and other amenities. With its balance of space, comfort, accessibility, and practical facilities, the property can be an appealing choice for families, professionals, or buyers seeking a dependable home in an established residential neighborhood.",
+      "address": "Silver Residency",
+      "city": "Ludhiana",
+      "state": "Punjab",
+      "postal_code": "141002",
+      "latitude": "30.894100",
+      "longitude": "75.849500",
+      "price": "18000.00",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area": "780.00",
+      "total_floors": 7,
+      "floor_number": 2,
+      "balconies": 1,
+      "created_at": "2026-08-01T10:00:00Z",
+      "updated_at": "2026-08-01T10:00:00Z",
+      "is_archived": false,
+      "parking_spaces": 1,
+      "seller": 1,
+      "availability_status": "RENTED",
+      "approval_status": "APPROVED",
+      "furnishing_status": "FURNISHED",
+      "property_type": "APARTMENT",
+      "listing_type": "RENT"
+    }
+  },
+  {
+    "model": "properties.property",
+    "pk": 12,
+    "fields": {
+      "description": "A comfortable and versatile home offering a combination of generous space, practical amenities, and a location suited to convenient everyday living. The property features thoughtfully arranged rooms that provide flexibility for families, couples, or professionals, with spacious living areas suitable for both relaxation and entertaining. Bedrooms offer comfortable private spaces, while the bathrooms are designed to support daily routines with ease. Good natural light and ventilation help create a bright and welcoming interior environment. Additional features such as balconies, outdoor areas, and dedicated parking add useful functionality and make the property more convenient for residents. Situated in a well-connected residential area, the home provides access to nearby markets, schools, roads, public transportation, and essential services. Overall, it offers a practical blend of comfort, accessibility, and usable living space for anyone seeking a well-rounded residential property for long-term living or investment purposes.",
+      "address": "31 Friends Colony",
+      "city": "Chandigarh",
+      "state": "Punjab",
+      "postal_code": "160047",
+      "latitude": "30.722900",
+      "longitude": "76.777800",
+      "price": "18500000.00",
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "area": "2850.00",
+      "total_floors": 2,
+      "floor_number": null,
+      "balconies": 3,
+      "created_at": "2026-08-01T10:00:00Z",
+      "updated_at": "2026-08-01T10:00:00Z",
+      "is_archived": false,
+      "parking_spaces": 3,
+      "seller": 1,
+      "availability_status": "AVAILABLE",
+      "approval_status": "APPROVED",
+      "furnishing_status": "FURNISHED",
+      "property_type": "HOUSE",
+      "listing_type": "SALE"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 1,
+    "fields": {
+      "property": 1,
+      "image": "uploads/property/bathroom.jpg",
+      "tag": "bathroom",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 2,
+    "fields": {
+      "property": 1,
+      "image": "uploads/property/bedroom.jpg",
+      "tag": "bedroom",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 3,
+    "fields": {
+      "property": 1,
+      "image": "uploads/property/lawn.jpg",
+      "tag": "lawn",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 4,
+    "fields": {
+      "property": 1,
+      "image": "uploads/property/living-room.webp",
+      "tag": "living room",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 5,
+    "fields": {
+      "property": 1,
+      "image": "uploads/property/terrace.jpg",
+      "tag": "terrace",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 6,
+    "fields": {
+      "property": 1,
+      "image": "uploads/property/cover.jpg",
+      "tag": "cover",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 7,
+    "fields": {
+      "property": 2,
+      "image": "uploads/property/bathroom.jpg",
+      "tag": "bathroom",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 8,
+    "fields": {
+      "property": 2,
+      "image": "uploads/property/bedroom.jpg",
+      "tag": "bedroom",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 9,
+    "fields": {
+      "property": 2,
+      "image": "uploads/property/lawn.jpg",
+      "tag": "lawn",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 10,
+    "fields": {
+      "property": 2,
+      "image": "uploads/property/living-room.webp",
+      "tag": "living room",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 11,
+    "fields": {
+      "property": 2,
+      "image": "uploads/property/terrace.jpg",
+      "tag": "terrace",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 12,
+    "fields": {
+      "property": 2,
+      "image": "uploads/property/cover.jpg",
+      "tag": "cover",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 13,
+    "fields": {
+      "property": 3,
+      "image": "uploads/property/bathroom.jpg",
+      "tag": "bathroom",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 14,
+    "fields": {
+      "property": 3,
+      "image": "uploads/property/bedroom.jpg",
+      "tag": "bedroom",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 15,
+    "fields": {
+      "property": 3,
+      "image": "uploads/property/lawn.jpg",
+      "tag": "lawn",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 16,
+    "fields": {
+      "property": 3,
+      "image": "uploads/property/living-room.webp",
+      "tag": "living room",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 17,
+    "fields": {
+      "property": 3,
+      "image": "uploads/property/terrace.jpg",
+      "tag": "terrace",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 18,
+    "fields": {
+      "property": 3,
+      "image": "uploads/property/cover.jpg",
+      "tag": "cover",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 19,
+    "fields": {
+      "property": 4,
+      "image": "uploads/property/bathroom.jpg",
+      "tag": "bathroom",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 20,
+    "fields": {
+      "property": 4,
+      "image": "uploads/property/bedroom.jpg",
+      "tag": "bedroom",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 21,
+    "fields": {
+      "property": 4,
+      "image": "uploads/property/lawn.jpg",
+      "tag": "lawn",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 22,
+    "fields": {
+      "property": 4,
+      "image": "uploads/property/living-room.webp",
+      "tag": "living room",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 23,
+    "fields": {
+      "property": 4,
+      "image": "uploads/property/terrace.jpg",
+      "tag": "terrace",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 24,
+    "fields": {
+      "property": 4,
+      "image": "uploads/property/cover.jpg",
+      "tag": "cover",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 25,
+    "fields": {
+      "property": 5,
+      "image": "uploads/property/bathroom.jpg",
+      "tag": "bathroom",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 26,
+    "fields": {
+      "property": 5,
+      "image": "uploads/property/bedroom.jpg",
+      "tag": "bedroom",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 27,
+    "fields": {
+      "property": 5,
+      "image": "uploads/property/lawn.jpg",
+      "tag": "lawn",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 28,
+    "fields": {
+      "property": 5,
+      "image": "uploads/property/living-room.webp",
+      "tag": "living room",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 29,
+    "fields": {
+      "property": 5,
+      "image": "uploads/property/terrace.jpg",
+      "tag": "terrace",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 30,
+    "fields": {
+      "property": 5,
+      "image": "uploads/property/cover.jpg",
+      "tag": "cover",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 31,
+    "fields": {
+      "property": 6,
+      "image": "uploads/property/bathroom.jpg",
+      "tag": "bathroom",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 32,
+    "fields": {
+      "property": 6,
+      "image": "uploads/property/bedroom.jpg",
+      "tag": "bedroom",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 33,
+    "fields": {
+      "property": 6,
+      "image": "uploads/property/lawn.jpg",
+      "tag": "lawn",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 34,
+    "fields": {
+      "property": 6,
+      "image": "uploads/property/living-room.webp",
+      "tag": "living room",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 35,
+    "fields": {
+      "property": 6,
+      "image": "uploads/property/terrace.jpg",
+      "tag": "terrace",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 36,
+    "fields": {
+      "property": 6,
+      "image": "uploads/property/cover.jpg",
+      "tag": "cover",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 37,
+    "fields": {
+      "property": 7,
+      "image": "uploads/property/bathroom.jpg",
+      "tag": "bathroom",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 38,
+    "fields": {
+      "property": 7,
+      "image": "uploads/property/bedroom.jpg",
+      "tag": "bedroom",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 39,
+    "fields": {
+      "property": 7,
+      "image": "uploads/property/lawn.jpg",
+      "tag": "lawn",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 40,
+    "fields": {
+      "property": 7,
+      "image": "uploads/property/living-room.webp",
+      "tag": "living room",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 41,
+    "fields": {
+      "property": 7,
+      "image": "uploads/property/terrace.jpg",
+      "tag": "terrace",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 42,
+    "fields": {
+      "property": 7,
+      "image": "uploads/property/cover.jpg",
+      "tag": "cover",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 43,
+    "fields": {
+      "property": 8,
+      "image": "uploads/property/bathroom.jpg",
+      "tag": "bathroom",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 44,
+    "fields": {
+      "property": 8,
+      "image": "uploads/property/bedroom.jpg",
+      "tag": "bedroom",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 45,
+    "fields": {
+      "property": 8,
+      "image": "uploads/property/lawn.jpg",
+      "tag": "lawn",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 46,
+    "fields": {
+      "property": 8,
+      "image": "uploads/property/living-room.webp",
+      "tag": "living room",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 47,
+    "fields": {
+      "property": 8,
+      "image": "uploads/property/terrace.jpg",
+      "tag": "terrace",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 48,
+    "fields": {
+      "property": 8,
+      "image": "uploads/property/cover.jpg",
+      "tag": "cover",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 49,
+    "fields": {
+      "property": 9,
+      "image": "uploads/property/bathroom.jpg",
+      "tag": "bathroom",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 50,
+    "fields": {
+      "property": 9,
+      "image": "uploads/property/bedroom.jpg",
+      "tag": "bedroom",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 51,
+    "fields": {
+      "property": 9,
+      "image": "uploads/property/lawn.jpg",
+      "tag": "lawn",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 52,
+    "fields": {
+      "property": 9,
+      "image": "uploads/property/living-room.webp",
+      "tag": "living room",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 53,
+    "fields": {
+      "property": 9,
+      "image": "uploads/property/terrace.jpg",
+      "tag": "terrace",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 54,
+    "fields": {
+      "property": 9,
+      "image": "uploads/property/cover.jpg",
+      "tag": "cover",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 55,
+    "fields": {
+      "property": 10,
+      "image": "uploads/property/bathroom.jpg",
+      "tag": "bathroom",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 56,
+    "fields": {
+      "property": 10,
+      "image": "uploads/property/bedroom.jpg",
+      "tag": "bedroom",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 57,
+    "fields": {
+      "property": 10,
+      "image": "uploads/property/lawn.jpg",
+      "tag": "lawn",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 58,
+    "fields": {
+      "property": 10,
+      "image": "uploads/property/living-room.webp",
+      "tag": "living room",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 59,
+    "fields": {
+      "property": 10,
+      "image": "uploads/property/terrace.jpg",
+      "tag": "terrace",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 60,
+    "fields": {
+      "property": 10,
+      "image": "uploads/property/cover.jpg",
+      "tag": "cover",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 61,
+    "fields": {
+      "property": 11,
+      "image": "uploads/property/bathroom.jpg",
+      "tag": "bathroom",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 62,
+    "fields": {
+      "property": 11,
+      "image": "uploads/property/bedroom.jpg",
+      "tag": "bedroom",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 63,
+    "fields": {
+      "property": 11,
+      "image": "uploads/property/lawn.jpg",
+      "tag": "lawn",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 64,
+    "fields": {
+      "property": 11,
+      "image": "uploads/property/living-room.webp",
+      "tag": "living room",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 65,
+    "fields": {
+      "property": 11,
+      "image": "uploads/property/terrace.jpg",
+      "tag": "terrace",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 66,
+    "fields": {
+      "property": 11,
+      "image": "uploads/property/cover.jpg",
+      "tag": "cover",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 67,
+    "fields": {
+      "property": 12,
+      "image": "uploads/property/bathroom.jpg",
+      "tag": "bathroom",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 68,
+    "fields": {
+      "property": 12,
+      "image": "uploads/property/bedroom.jpg",
+      "tag": "bedroom",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 69,
+    "fields": {
+      "property": 12,
+      "image": "uploads/property/lawn.jpg",
+      "tag": "lawn",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 70,
+    "fields": {
+      "property": 12,
+      "image": "uploads/property/living-room.webp",
+      "tag": "living room",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 71,
+    "fields": {
+      "property": 12,
+      "image": "uploads/property/terrace.jpg",
+      "tag": "terrace",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "properties.propertyimage",
+    "pk": 72,
+    "fields": {
+      "property": 12,
+      "image": "uploads/property/cover.jpg",
+      "tag": "cover",
+      "created_at": "2026-08-01T10:00:00Z"
+    }
+  }
+]
